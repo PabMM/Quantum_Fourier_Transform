@@ -1,8 +1,8 @@
 (* -----------------------------------------------------------------------------------------------
--- Author: Pablo Manrique Merchán
--- MSc in Logic, Computer Science and Artificial Intelligence
+-- Quantum Fourier Transform
+
+-- Author: Pablo Manrique Merchán < pabmanmer at alum.us.es >
 -- Universidad de Sevilla
--- MSc Thesis - Quantum Computing: formalization and proof in Isabelle
 -- -----------------------------------------------------------------------------------------------*)
 
 theory QFT

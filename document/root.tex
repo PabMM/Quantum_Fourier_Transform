@@ -36,9 +36,13 @@
 
 \begin{document}
 
-\title{Quantum-Fourier-Transform}
-\author{pablo}
+\title{Quantum Fourier Transform}
+\author{Pablo Manrique}
 \maketitle
+
+\begin{abstract}
+	This work presents a formalization of the Quantum Fourier Transform, a fundamental component of Shor's factoring algorithm, with proofs of its correctness and unitarity. The proof is carried out by induction, relying on the algorithm's recursive definition. This formalization builds upon the \textit{Isabelle Marries Dirac} quantum computing library, developed by A. Bordg, H. Lachnitt, and Y. He.
+\end{abstract}
 
 \tableofcontents
 
@@ -48,9 +52,14 @@
 % generated text of all theories
 \input{session}
 
+\section{Acknowledgements}
+
+This work was conducted as part of my MSc Thesis \cite{tfm} under the supervision of Prof. Francisco Jesús Martín Mateos, without whose advise and assistance its completion would not have been possible.
+
+\nocite{*}
 % optional bibliography
-%\bibliographystyle{abbrv}
-%\bibliography{root}
+\bibliographystyle{abbrv}
+\bibliography{root}
 
 \end{document}
 
