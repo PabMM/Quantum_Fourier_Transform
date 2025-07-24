@@ -8,7 +8,7 @@ In order run the theory `QFT.thy`, you must install the [Archive of Formal Proof
 
 - https://www.isa-afp.org/entries/Isabelle_Marries_Dirac.html
 
-In case you have further questions, contact pablomm01@gmail.com / pabmanmer@alum.us.es
+In case you have further questions, contact pablomm01@gmail.com / pablo.merchan@tuwien.ac.at
 
 ## AFP
 This formalization is now part of the [Archive of Formal Proofs](https://www.isa-afp.org/entries/Quantum_Fourier_Transform.html) (Jan 28, 2025).
